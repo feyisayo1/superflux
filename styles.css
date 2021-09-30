@@ -289,13 +289,17 @@ li{
 
 .selling__point{
     /* width: 100%;// */
-    margin-top:157px;
+    margin-top:126px;
     /* background-color: red; */
     /* background: #000000; */
     background: rgb(0, 0, 0, 0.6);
     /* opacity: 0.6; */
-    padding: 20px;
-    white-space: nowrap;
+    padding: 15px;
+    /*white-space: nowrap;*/
+}
+
+.owl-dots{
+    display:none;
 }
 
 .content__wrapper{
@@ -353,7 +357,7 @@ li{
     border-radius: 4px;
     /* padding: 20px; */
     width: fit-content;
-    margin-left: 5rem;
+    /*margin-left: 5rem;*/
 }
 
 .owl-item{
@@ -917,7 +921,7 @@ li{
     box-shadow: 0px 4px 24px rgba(1, 17, 102, 0.14);
     border-radius: 4px;
     /* padding: 20px; */
-    width: 65%;
+    width: 80%;
 }
 
 .about__image img{
