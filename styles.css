@@ -19,8 +19,8 @@ li{
 }
 
 /*when you get the video delete this style */
-.video img{
-    background-image: url("./assets/ezgif.com-gif-maker\ \(2\).gif");
+.hero__page{
+    background-image: url("./assets/ezgif.com-gif-maker (2).gif");
     width: 100%;
 /*     position: absolute; */
 /*     z-index: -1; */
