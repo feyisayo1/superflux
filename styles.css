@@ -20,9 +20,10 @@ li{
 
 /*when you get the video delete this style */
 .video img{
+    background-image: url("./assets/ezgif.com-gif-maker\ \(2\).gif");
     width: 100%;
-    position: absolute;
-    z-index: -1;
+/*     position: absolute; */
+/*     z-index: -1; */
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;
@@ -288,14 +289,17 @@ li{
 
 
 .selling__point{
-    /* width: 100%;// */
-    margin-top:126px;
+    width: 100%;
+/*     margin-top:126px; */
+    position: absolute;
     /* background-color: red; */
     /* background: #000000; */
     background: rgb(0, 0, 0, 0.6);
     /* opacity: 0.6; */
     padding: 15px;
     /*white-space: nowrap;*/
+    bottom:0;
+    left:0;
 }
 
 .owl-dots{
@@ -392,7 +396,7 @@ li{
 
 
 .super__int{
-    margin:100px 0px;
+    margin:7% 0%;
     width: 100%;
 }
 
@@ -727,7 +731,7 @@ li{
 .last__two__wrapper{
     display: flex;
     justify-content: space-between;
-    padding-top: 38px;
+    padding-top: 60px;
 }
 
 .second__card {
